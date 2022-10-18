@@ -1,0 +1,22 @@
+{
+   "user1" : {
+      "Subject" : "Math",
+      "Teacher" : "Mr.Smith",
+      "Schedule" : "MWF",
+      "id": 1
+   },
+   
+   "user2" : {
+      "Subject" : "Science",
+      "Teacher" : "Ms. Sunga",
+      "Schedule" : "TTh",
+      "id": 2
+   },
+   
+   "user3" : {
+      "Subject" : "Physical Education",
+      "Teacher" : "Ms. Tolentino",
+      "Schedule" : "MWS",
+      "id": 3
+   }
+}
